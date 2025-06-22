@@ -25,7 +25,7 @@ const Footer = () => {
                 href="#"
                 className="w-10 h-10 bg-purple-600 rounded-full flex items-center justify-center hover:bg-purple-700 transition-colors"
               >
-                <Telegram className="w-5 h-5" />
+                <Send className="w-5 h-5" />
               </a>
               <a
                 href="#"
