@@ -1,11 +1,4 @@
-import {
-  Phone,
-  Mail,
-  MapPin,
-  Instagram,
-  Telegram,
-  Youtube,
-} from "lucide-react";
+import { Phone, Mail, MapPin, Instagram, Send, Youtube } from "lucide-react";
 
 const Footer = () => {
   return (
